@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-dev
-=======
-release
->>>>>>> release
-2
+ttttttttt
